@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    h1 {
-      font-size: 3em;
-      color: #4CAF50; /* Cambia el color */
-      text-align: center;
-      text-transform: uppercase; /* Texto en mayúsculas */
-      letter-spacing: 2px; /* Espaciado entre letras */
-      margin-top: 50px;
-      margin-bottom: 20px;
-      font-family: 'Arial', sans-serif;
-    }
-  </style>
-  <title>Microservicios de Pacientes y Turnos</title>
-</head>
-<body>
+Microservicios de Pacientes y Turnos
 
 Estos microservicios han sido diseñados para gestionar las operaciones relacionadas con la 
 administración de pacientes y turnos médicos, aprovechando una arquitectura de microservicios 
